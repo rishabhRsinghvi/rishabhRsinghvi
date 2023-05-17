@@ -2,33 +2,6 @@
 
 <script>
 
-  // Function to simulate typewriter effect
-
-  const typeWriter = (text, i = 0) => {
-
-    if (i < text.length) {
-
-      document.getElementById("intro").innerHTML += text.charAt(i);
-
-      i++;
-
-      setTimeout(() => typeWriter(text, i), 50);
-
-    }
-
-  };
-
-  // Start typewriter effect on page load
-
-  window.onload = () => {
-
-    const introText = "Data Scientist & Machine Learning Engineer";
-
-    typeWriter(introText);
-
-  };
-
-</script>
 
 <p id="intro"></p>
 
