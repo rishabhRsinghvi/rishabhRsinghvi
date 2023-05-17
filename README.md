@@ -8,19 +8,19 @@ I am a Data Scientist and Machine Learning Engineer with a passion for leveragin
 
 ### About Me
 
-Introduce yourself and provide a brief overview of your expertise, experience, and interests in the data science and machine learning domain.
+I work machine learning and data science all day long
 
 ### Work Experience
 
-Outline your work experience, highlighting your roles and responsibilities in the field of data science and machine learning.
+
 
 ### Projects
 
-List and provide brief descriptions of your notable data science and machine learning projects. Include links to the respective repositories or hosted applications, if applicable.
+
 
 ### Skills
 
-Outline your key skills and technologies in data science and machine learning. Mention programming languages, frameworks, tools, and any other relevant expertise.
+
 
 ### Contact Me
 
