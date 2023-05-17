@@ -1,9 +1,44 @@
 # Hi, I'm Rishabh Singhvi!
 
+<script>
+
+  // Function to simulate typewriter effect
+
+  const typeWriter = (text, i = 0) => {
+
+    if (i < text.length) {
+
+      document.getElementById("intro").innerHTML += text.charAt(i);
+
+      i++;
+
+      setTimeout(() => typeWriter(text, i), 50);
+
+    }
+
+  };
+
+  // Start typewriter effect on page load
+
+  window.onload = () => {
+
+    const introText = "Data Scientist & Machine Learning Engineer";
+
+    typeWriter(introText);
+
+  };
+
+</script>
+
+<p id="intro"></p>
+
+Welcome to my GitHub profile!
+
 ## Data Scientist & Machine Learning Engineer
 ![Profile Views](https://komarev.com/ghpvc/?username=rishabhRsinghvi)
 
-I am a Data Scientist and Machine Learning Engineer with a passion for leveraging data-driven insights to solve complex problems. Welcome to my GitHub profile!
+
+
 
 ### About Me
 Introduce yourself and provide a brief overview of your expertise, experience, and interests in the data science and machine learning domain.
