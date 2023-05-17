@@ -24,7 +24,7 @@ Outline your key skills and technologies in data science and machine learning. M
 
 ### Contact Me
 
-- Email: your_email@example.com
+- Email: rishabhsinghvvi@gmail.com
 
 - LinkedIn: [Rishabh Singhvi](https://www.linkedin.com/in/your-linkedin-profile)
 
