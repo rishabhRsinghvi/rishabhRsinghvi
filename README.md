@@ -10,18 +10,6 @@ I am a Data Scientist and Machine Learning Engineer with a passion for leveragin
 
 I work machine learning and data science all day long
 
-### Work Experience
-
-
-
-### Projects
-
-
-
-### Skills
-
-
-
 ### Contact Me
 
 - Email: rishabhsinghvvi@gmail.com
