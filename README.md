@@ -8,7 +8,7 @@ I am a Data Scientist and Machine Learning Engineer with a passion for leveragin
 
 ### About Me
 
-I work machine learning and data science all day long
+I work with machine learning and data science
 
 ### Contact Me
 
