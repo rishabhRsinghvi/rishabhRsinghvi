@@ -1,6 +1,6 @@
 # Hi, I'm Rishabh Singhvi!
 
-## Data Scientist & Machine Learning Engineer
+## Smart Contract Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rishabhRsinghvi)
 
