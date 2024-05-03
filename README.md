@@ -4,11 +4,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rishabhRsinghvi)
 
-I am a Data Scientist and Machine Learning Engineer with a passion for leveraging data-driven insights to solve complex problems. Welcome to my GitHub profile!
+I am a Smart Contract Engineer. Welcome to my GitHub profile!
 
 ### About Me
 
-I work with machine learning and data science
+I work with smart contracts.
 
 ### Contact Me
 
