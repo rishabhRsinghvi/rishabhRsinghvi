@@ -8,7 +8,7 @@ I am a Smart Contract Engineer. Welcome to my GitHub profile!
 
 ### About Me
 
-I work with smart contracts.
+I work with smart contracts and Data Science.
 
 ### Contact Me
 
