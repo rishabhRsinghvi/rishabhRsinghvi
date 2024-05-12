@@ -1,6 +1,6 @@
 # Hi, I'm Rishabh Singhvi!
 
-## Smart Contract Developer
+## Software Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rishabhRsinghvi)
 
